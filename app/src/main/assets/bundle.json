@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "lib.style",
+      "pkg": "com.szwyx.lib.style"
+    },
+    {
+      "uri": "home",
+      "pkg": "com.szwyx.app.home"
+    }
+  ]
+}
